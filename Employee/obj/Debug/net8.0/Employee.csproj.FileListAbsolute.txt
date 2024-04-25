@@ -1,0 +1,15 @@
+C:\Users\User\Documents\programirane\Employers\Employee\bin\Debug\net8.0\Employee.exe
+C:\Users\User\Documents\programirane\Employers\Employee\bin\Debug\net8.0\Employee.deps.json
+C:\Users\User\Documents\programirane\Employers\Employee\bin\Debug\net8.0\Employee.runtimeconfig.json
+C:\Users\User\Documents\programirane\Employers\Employee\bin\Debug\net8.0\Employee.dll
+C:\Users\User\Documents\programirane\Employers\Employee\bin\Debug\net8.0\Employee.pdb
+C:\Users\User\Documents\programirane\Employers\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Employers\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Employers\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Employers\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Employers\Employee\obj\Debug\net8.0\Employee.sourcelink.json
+C:\Users\User\Documents\programirane\Employers\Employee\obj\Debug\net8.0\Employee.dll
+C:\Users\User\Documents\programirane\Employers\Employee\obj\Debug\net8.0\refint\Employee.dll
+C:\Users\User\Documents\programirane\Employers\Employee\obj\Debug\net8.0\Employee.pdb
+C:\Users\User\Documents\programirane\Employers\Employee\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Employers\Employee\obj\Debug\net8.0\ref\Employee.dll
